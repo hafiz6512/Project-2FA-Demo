@@ -1,5 +1,5 @@
-# OSSPID-2FA
- Two-Factor Authentication (2FA)
+# Project-2FA-Demo
+ Two-factor Authentication (2FA)
 
 # The Developer
 
@@ -12,4 +12,4 @@
 
 ## License
 
-This project is open source and available under the [GNU-MIT License](./LICENSE).
+This open-source project is available under the [GNU-MIT License](./LICENSE).
